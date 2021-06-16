@@ -1,0 +1,13 @@
+.manage-button {
+    font-size: x-large;
+    width: 80%;
+    height: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #ffc107;
+}
+
+.pop-up {
+    width: 80%;
+    background-color: #343a40;
+}
